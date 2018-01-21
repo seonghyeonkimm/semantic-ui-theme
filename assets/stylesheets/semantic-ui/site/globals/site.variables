@@ -1,0 +1,11 @@
+/*********************************
+    apart:mentary site setting
+**********************************/
+
+/*-------------------
+       Fonts
+--------------------*/
+
+@fontName: @font-yoongothic;
+
+@importGoogleFonts: false;
